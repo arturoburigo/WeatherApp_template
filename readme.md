@@ -4,8 +4,8 @@
 
 
 <div align=center style="padding: 20px">
-    <img src="./appImages/light.png" height="425" style="padding: 20px">  
-    <img src="./appImages/dark.png" height="425" style="padding: 20px">
+    <img src="./appimages/light.png" height="425" style="padding: 20px">  
+    <img src="./appimages/dark.png" height="425" style="padding: 20px">
 </div>
 
 
